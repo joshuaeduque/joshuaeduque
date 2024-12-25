@@ -2,7 +2,41 @@
 
 ###
 
-<p align="left">Thanks for visiting! My name's Josh and I'm currently a computer science student at the University of Texas at San Antonio. I started writing software as a teen to make cheats for my favorite online video games and found myself developing for several areas including frontend, backend, embedded, etc. Thanks again for visiting, and please enjoy!</p>
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">My name's Josh and I'm currently a computer science student at the University of Texas at San Antonio.<br><br>Growing up, I found myself invested in video game hacking / modding, often learning through  forums, reverse engineering, and pure trial & error. After a while, I would start getting commissions for my work, but I knew there were gaps in my formal knowledge that needed filling. With that in mind, I decided to pursue an education in the hopes of starting a career doing what I've loved for a long time.<br><br>I have experience developing for several environments including frontend, backend, and embedded. While I don't get to do it often, I'd definitely say that PIC / AVR programming has been the most fun!</p>
+
+###
+
+<h3 align="left">Languages & Tech I Enjoy</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+</div>
+
+###
+
+<h3 align="left">Profile Stats</h3>
 
 ###
 
